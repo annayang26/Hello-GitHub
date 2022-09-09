@@ -1,7 +1,7 @@
 # Hello-GitHub
 
 <h1 align="center">Hi 👋, I'm Anna Yang</h1>
-<h3 align="center">A passionate student at Colby College, interested in brain and computer (Biology-Neuroscience and Computer Science)</h3>
+<h3 align="center">A passionate senior at Colby College, interested in brain and computer (Biology-Neuroscience and Computer Science), thinking about going to Pharmacy School after Colby</h3>
 
 - 📫 How to reach me **zyang23@colby.edu**
 
