@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **zyang23@colby.edu**
 
+- 🌱 I’m currently learning **Software Engineering and Neural Network**
+
 - ⚡ Fun fact **I just got a dragon tattoo. I think it's cool.**
 
 <h3 align="left">Connect with me:</h3>
